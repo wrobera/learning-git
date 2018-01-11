@@ -1,0 +1,28 @@
+body {
+	background-color: #969696;
+}
+.header {
+	width: 500px;
+	background-color: #fff;
+	display: block;
+	text-align: center;
+}
+.header h1, h2 {
+	text-align: center;
+	color: #484848;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font size: 30px;
+}
+.container {
+	width: 500px;
+	background-color: #fff;
+	display: block;
+}
+.container p {
+	padding: 10px;
+	font-size: 20px;
+}
