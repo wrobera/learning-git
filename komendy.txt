@@ -1,2 +1,7 @@
+komendy:
+
+npm install -g autoprefixer-cli
 autoprefixer-cli -o style.prefixet.css style.css
+
+npm install -g nu-html-checker
 nu-html-checker *.html
